@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/match-game/static/css/main.684114a0.chunk.css",
+    "main.js": "/match-game/static/js/main.03240cf4.chunk.js",
+    "main.js.map": "/match-game/static/js/main.03240cf4.chunk.js.map",
+    "runtime-main.js": "/match-game/static/js/runtime-main.36b5221b.js",
+    "runtime-main.js.map": "/match-game/static/js/runtime-main.36b5221b.js.map",
+    "static/js/2.3089a854.chunk.js": "/match-game/static/js/2.3089a854.chunk.js",
+    "static/js/2.3089a854.chunk.js.map": "/match-game/static/js/2.3089a854.chunk.js.map",
+    "index.html": "/match-game/index.html",
+    "precache-manifest.85132946d6e3b2e7260df7aed6f1f2f4.js": "/match-game/precache-manifest.85132946d6e3b2e7260df7aed6f1f2f4.js",
+    "service-worker.js": "/match-game/service-worker.js",
+    "static/css/main.684114a0.chunk.css.map": "/match-game/static/css/main.684114a0.chunk.css.map",
+    "static/js/2.3089a854.chunk.js.LICENSE.txt": "/match-game/static/js/2.3089a854.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36b5221b.js",
+    "static/js/2.3089a854.chunk.js",
+    "static/css/main.684114a0.chunk.css",
+    "static/js/main.03240cf4.chunk.js"
+  ]
+}
